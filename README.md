@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @AtienoObwanda
+- Simply put, I enjoy getting computers to do things my way!
 - 👀 I’m interested in Full-Stack web development
 - 🌱 I’m currently learning Python/Angular
 - 💞️ I’m looking to collaborate on any project/opportunity that would result into growth.
-- 📫 How to reach me: EMail me @atienoobwanda@gmail.com || WhatsApp: +254700851861
+- 📫 How to reach me: "atienoobwanda@gmail.com"
 
 <!---
 AtienoObwanda/AtienoObwanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
