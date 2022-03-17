@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AtienoObwanda
 - 💞️ I enjoy getting computers to do things my way!
 - 👀 I’m interested in Full-Stack web development
-- 🌱 I’m currently learning Python/React JS
+- 🌱 I’m currently learning: Python | Angular | React JS
 - 💞️ I’m looking to collaborate on any project/opportunity that would result into growth.
 - 📫 You can reach me through: "atienoobwanda@gmail.com"
 
