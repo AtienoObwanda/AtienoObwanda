@@ -24,9 +24,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atienoobwanda)](https://github.com/atienoobwanda/github-readme-stats)
 
+<!---
 #### ACTIVITY STATS:
 ****
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AtienoObwanda)](https://github.com/atienoobwanda/github-readme-stats)
+
+--->
 
 #### Connect with me:
 ****
