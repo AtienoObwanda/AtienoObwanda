@@ -1,8 +1,9 @@
 # 👋 Hi, I am **Atieno** 
 ![Alt text](/gitCover.png?raw=true "Banner showing Atieno")
-<a href="url"><img src="/gitCover.png" height="48" width="100" ></a>
+
 
 💞️ I'm a fullstack developer who is passionate about solving day-to-day challenges, through technology at the same time elevating people, and building community.  </br>
+<a href="url"><img src="/gitCover.png" width="cover" ></a>
 
 Some technologies I enjoy working with include ReactJS, Bootstrap, Tailwind CSS, </br>
 
