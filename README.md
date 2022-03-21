@@ -1,13 +1,17 @@
-# Hi, I'm **Atieno** 👋🏾 👩🏾‍💻
-![Alt text](/gitCover.png?raw=true "Optional Title")
+# 👋 Hi, I am **Atieno** 
+![Alt text](/gitCover.png?raw=true "Banner showing Atieno")
 
+💞️ I'm a fullstack developer who is passionate about solving day-to-day challenges, through technology at the same time elevating people, and building community.  </br>
 
-- 👋 Hi, I’m @AtienoObwanda
-- 💞️ I enjoy getting computers to do things my way!
-- 👀 I’m interested in Full-Stack web development
-- 🌱 I’m currently learning: Python | Angular | React JS
-- 💞️ I’m looking to collaborate on any project/opportunity that would result into growth.
-- 📫 You can reach me through: "atienoobwanda@gmail.com"
+Some technologies I enjoy working with include ReactJS, Bootstrap, Tailwind CSS, </br>
+
+🌱 I’m currently learning: **Python & Angular** </br>
+
+The idea of being able to get computers to do things my way fascinates me! </br>
+ 
+👀 I’m  always constantly looking for growth opportunities, so hit me up for collaborations.  </br>
+
+📫 You can reach me through: "atienoobwanda@gmail.com"
 
 <!---
 AtienoObwanda/AtienoObwanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
