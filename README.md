@@ -13,13 +13,14 @@
 
 👀 I’m  always constantly looking for growth opportunities, so hit me up for collaborations.  </br>
 
-****
 #### GIT STATS:
+****
 
 ![Atieno's GitHub stats](https://github-readme-stats.vercel.app/api?username=atienoobwanda&show_icons=true&theme=radical)
 
-****
 #### TOP LANGUAGES:
+
+****
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atienoobwanda)](https://github.com/atienoobwanda/github-readme-stats)
 
