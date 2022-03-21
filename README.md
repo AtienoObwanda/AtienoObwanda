@@ -24,6 +24,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atienoobwanda)](https://github.com/atienoobwanda/github-readme-stats)
 
+#### TOP PINS:
+****
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atienoobwanda&repo=github-readme-stats)](https://github.com/atienoobwanda/github-readme-stats)
+
 #### Connect with me:
 ****
 You can reach me through: 
