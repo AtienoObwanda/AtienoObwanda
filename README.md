@@ -13,11 +13,14 @@
 
 👀 I’m  always constantly looking for growth opportunities, so hit me up for collaborations.  </br>
 
+****
+
+![Atieno's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 #### Connect with me:
-📫 You can reach me through: "atienoobwanda@gmail.com" </br>
-[1]: http://www.github.com/your_contact_info
-[2]: https://www.linkedin.com/in/your_contact_info
-[3]: https://www.facebook.com/your_contact_info
+****
+You can reach me through: 
+"atienoobwanda@gmail.com" </br>
 
 <!---
 AtienoObwanda/AtienoObwanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
