@@ -1,3 +1,7 @@
+
+![Alt text](/gitCover.png?raw=true "Optional Title")
+
+
 - 👋 Hi, I’m @AtienoObwanda
 - 💞️ I enjoy getting computers to do things my way!
 - 👀 I’m interested in Full-Stack web development
