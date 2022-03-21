@@ -1,5 +1,5 @@
 
-![Alt text](/gitCover.png?raw=true "Optional Title")
+![Alt text](/gitCover.png|width=100px?raw=true "Optional Title")
 
 
 - 👋 Hi, I’m @AtienoObwanda
