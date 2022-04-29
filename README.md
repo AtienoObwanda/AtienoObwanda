@@ -11,7 +11,11 @@
 
 :star: *The idea of being able to get computers to do things my way fascinates me!* </br>
 
-👀 I’m  always constantly looking for growth opportunities, so hit me up for collaborations.  </br>
+👀 I’m  always constantly looking for growth opportunities, so hit me up for collaborations.  
+</br>
+ 
+**GIT STREAKS:** <br />
+****
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atienoobwanda&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FFE573&fire=FF8623&currStreakLabel=FF8623" alt="Atieno Obwanda" />
   <br />
@@ -27,15 +31,14 @@
 ****
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=atienoobwanda&theme=react-dark&custom_title=My%20Activity&hide_border=true&area=true)
 <br />
-**WAKATIME STATS:** <br />
+<!-- **WAKATIME STATS:** <br />
 ****
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Atieno Obwanda)](https://github.com/atienoobwanda/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Atieno Obwanda)](https://github.com/atienoobwanda/github-readme-stats) -->
 
-#### Languages and tools
+<!-- #### Languages and tools
+ -->
 
- </div>
-
-#### Connect with me:
+ **Connect with me:**
 ****
 You can reach me through: 
 "atienoobwanda@gmail.com" </br>
