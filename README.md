@@ -40,8 +40,8 @@
 
  **Connect with me:**
 ****
-You can reach me through: 
-"atienoobwanda@gmail.com" </br>
+Don't forget to: 
+Star a repo! </br>
 
 <!---
 AtienoObwanda/AtienoObwanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
