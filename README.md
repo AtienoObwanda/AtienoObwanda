@@ -14,16 +14,20 @@
 👀 I’m  always constantly looking for growth opportunities, so hit me up for collaborations.  </br>
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atienoobwanda&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FFE573&fire=FF8623&currStreakLabel=FF8623" alt="Atieno Obwanda" />
+  <br />
   
-![Contribution](https://activity-graph.herokuapp.com/graph?username=atienoobwanda&theme=react-dark&custom_title=My%20Activity&hide_border=true&area=true)
 
 **GIT STATS:** <br />
 ****
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=atienoobwanda&show_icons=true&count_private=true&hide_border=true&title_color=FEE473&icon_color=FF8623&text_color=c9d1d9&bg_color=0d1117" /> 
-<br />
+
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atienoobwanda&layout=compact&hide_border=true&title_color=FEE473&text_color=FFFFFF&bg_color=0d1117" />
 
-#### ACTIVITY STATS: <br />
+ **ACTIVITY STATS:** <br />
+****
+![Contribution](https://activity-graph.herokuapp.com/graph?username=atienoobwanda&theme=react-dark&custom_title=My%20Activity&hide_border=true&area=true)
+<br />
+**WAKATIME STATS:** <br />
 ****
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AtienoObwanda)](https://github.com/atienoobwanda/github-readme-stats)
 
