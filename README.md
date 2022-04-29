@@ -38,7 +38,7 @@
 <!-- #### Languages and tools
  -->
 
- **Connect with me:**
+ **Git Reminder:**
 ****
 Don't forget to: 
 Star a repo! </br>
