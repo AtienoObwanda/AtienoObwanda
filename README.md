@@ -29,7 +29,7 @@
 <br />
 **WAKATIME STATS:** <br />
 ****
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AtienoObwanda)](https://github.com/atienoobwanda/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Atieno Obwanda)](https://github.com/atienoobwanda/github-readme-stats)
 
 #### Languages and tools
 
