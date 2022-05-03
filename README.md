@@ -40,7 +40,7 @@
 
  **Git Reminder:**
 ****
-*Adding a star to my Repos and FOLLOWING me boosts your coding KARMA* 
+*Adding a star to my Repos and FOLLOWING me boosts your coding KARMA* </br>
  Don't forget to:</br>
            >Star a repo! </br>
            >Follow me</br>
