@@ -40,8 +40,10 @@
 
  **Git Reminder:**
 ****
-Don't forget to: 
-Star a repo! </br>
+*Adding a star to my Repos and FOLLOWING me boosts your coding KARMA* 
+ Don't forget to:</br>
+           >Star a repo! </br>
+           >Follow me</br>
 
 <!---
 AtienoObwanda/AtienoObwanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
