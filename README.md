@@ -1,5 +1,5 @@
-<a href="url"><img src="/gitCover.png" width="900px" ></a>
-
+<!-- <a href="url"><img src="/gitCover.png" width="900px" ></a>
+ -->
 #### 👋 Hi, I am **Atieno** 
 ****
 
