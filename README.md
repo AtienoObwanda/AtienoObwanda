@@ -11,7 +11,7 @@
 
 :star: *The idea of being able to get computers to do things my way fascinates me!* </br>
 
-👀 I’m  always constantly looking for growth opportunities, so hit me up for collaborations.  
+👀 I’m  always constantly looking for growth opportunities, so let's connect.  
 </br>
 <br />
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atienoobwanda&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FFE573&fire=FF8623&currStreakLabel=FF8623" alt="Atieno Obwanda" />
