@@ -20,7 +20,7 @@ Hello, I'm <a href="#">Atieno Obwanda</a>!
 **MY GIT STATS:** <br />
 ****
 <div style="display: flex;">
-    <div style="width: 50%;">
+    <div style="width: 40%;">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=atienoobwanda&theme=gotham" />
     </div>
     <div style="width: 50%;">
