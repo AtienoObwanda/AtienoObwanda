@@ -1,7 +1,7 @@
 <!-- <a href="url"><img src="/gitCover.png" width="900px" ></a>
  -->
 <h1 align="center">
-Hello ðŸ‘‹ I'm <a href="#">Atieno Obwanda</a>!
+Hello, I'm <a href="#">Atieno Obwanda</a>!
 </h1>
 
 :pushpin: **I'm a fullstack developer who is passionate about solving day-to-day challenges, through technology at the same time elevating people, and building community.**  </br>
