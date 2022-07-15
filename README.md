@@ -48,7 +48,7 @@ Hello ‘‹ I'm <a href="#">Atieno Obwanda</a>!
 
 ![Atieno's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atienoobwanda&theme=gotham&layout=compact)
 
-<!-->
+<!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Atieno Obwanda)](https://github.com/atienoobwanda/github-readme-stats) -->
 
 <!-- #### Languages and tools
