@@ -6,15 +6,19 @@ Hello, I'm <a href="#">Atieno Obwanda</a>!
 
 :pushpin: **I'm a fullstack developer who is passionate about solving day-to-day challenges, through technology at the same time elevating people, and building community.**  </br>
 
-:star: *The idea of being able to get computers to do things my way fascinates me!* </br>
-<!-- :fire: Some technologies I enjoy working with include ReactJS, Bootstrap, Tailwind CSS, </br> -->
-
-🌱 I’m currently learning: <a href='https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@5c4566382df54814ba604df6369ca2fc/block-v1:HarvardX+CS50P+Python+type@vertical+block@a1450ed5620843fe9fd548156a385d26'>**HarvardX CS50's Introduction to Programming with Python**</a> </br>
-
-
 👀 I’m  always constantly looking for growth opportunities, so let's connect.  
 </br>
-![Twitter Follow](https://img.shields.io/twitter/follow/atien_o?style=social) | ![GitHub followers](https://img.shields.io/github/followers/atienoobwanda?style=social)  
+
+🇰🇪 Current Location: Kenya.<br>
+
+:star: *The idea of being able to get computers to do things my way fascinates me!* </br>
+
+:fire: **Recent Project:** <a href='https://weconnekt.herokuapp.com/'>We Connect</a></br>
+
+🌱 **What I've been up to lately:** I’m currently learning: <a href='https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@5c4566382df54814ba604df6369ca2fc/block-v1:HarvardX+CS50P+Python+type@vertical+block@a1450ed5620843fe9fd548156a385d26'>**HarvardX CS50's Introduction to Programming with Python**</a> </br>
+
+
+**🌳 Current Project:** I'm currently working on my personal portfolio  
 <br />
 
 **MY GIT STATS:** <br />
@@ -49,20 +53,13 @@ Hello, I'm <a href="#">Atieno Obwanda</a>!
 
 <!--END_SECTION:waka-->
 
-![Atieno's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atienoobwanda&theme=gotham&layout=compact)
 
 
 
-<!-- #### Languages and tools
- -->
+![Twitter Follow](https://img.shields.io/twitter/follow/atien_o?style=social) | ![GitHub followers](https://img.shields.io/github/followers/atienoobwanda?style=social)
 
  **Git Reminder:**
 ****
 *✨Adding a star to my Repos and FOLLOWING me boosts your coding KARMA✨* </br>
  
           
-
-<!---
-AtienoObwanda/AtienoObwanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
