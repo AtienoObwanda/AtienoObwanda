@@ -47,8 +47,9 @@ Hello, I'm <a href="#">Atieno Obwanda</a>!
 ****
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=atienoobwanda&theme=react-dark&custom_title=My%20Activity&hide_border=true&area=true)
 <br /> -->
- **WAKATIME STATS:** <br />
-****
+
+ <!-- **WAKATIME STATS:** <br />
+**** -->
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
