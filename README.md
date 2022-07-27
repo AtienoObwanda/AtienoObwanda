@@ -1,9 +1,14 @@
 <!-- <a href="url"><img src="/gitCover.png" width="900px" ></a>
  -->
 <h1 align="center">
-Hello, I'm <a href="https://atienoobwanda.github.io/portfolioo/">Atieno Obwanda</a>!
+Hello<img src="/Wave.gif" height="55px" width="55px">, I am <a href="https://atienoobwanda.github.io/portfolioo/">Atieno Obwanda</a>!
 </h1>
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines= Software-Developer+Passionate+about+solving+day-to-day+challenges;Harnessing+The+Coding+Super+Power!;Empowering+Others;Nice+To+Meet+You+...&center=true">
 
+</p>
+About Me 🚀
 :pushpin: **I'm a fullstack developer who is passionate about solving day-to-day challenges, through technology at the same time elevating people, and building community.**  </br>
 
 👀 I’m  always constantly looking for growth opportunities, so let's connect.  
@@ -48,9 +53,13 @@ Hello, I'm <a href="https://atienoobwanda.github.io/portfolioo/">Atieno Obwanda<
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=atienoobwanda&theme=react-dark&custom_title=My%20Activity&hide_border=true&area=true)
 <br /> -->
 
- <!-- **WAKATIME STATS:** <br />
-**** -->
+ **WAKATIME STATS:** <br />
 <!--START_SECTION:waka-->
+
+```text
+YAML   10 mins         █████████████████████████   100.00 %
+Java   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
 
 <!--END_SECTION:waka-->
 
