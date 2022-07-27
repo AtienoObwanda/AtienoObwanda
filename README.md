@@ -47,19 +47,17 @@ Hello<img src="/Wave.gif" height="55px" width="55px">, I am<a href="https://atie
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=atienoobwanda&theme=react-dark&custom_title=My%20Activity&hide_border=true&area=true)
 </details> -->
 <!-- <hr> -->
-<details>
+<!-- <details>
 <summary> MY WAKATIME STATS✨</summary>
 
-```text
-YAML   10 mins         █████████████████████████   100.00 %
-Java   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
 
-</details>
+[![wakatime](https://wakatime.com/badge/user/f625f7da-5f8f-4dc7-b960-de0e9f160147.svg)](https://wakatime.com/@f625f7da-5f8f-4dc7-b960-de0e9f160147)
+
+</details> -->
 <hr>
 </br>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/atien_o?style=social) | ![GitHub followers](https://img.shields.io/github/followers/atienoobwanda?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/atien_o?style=social) | ![GitHub followers](https://img.shields.io/github/followers/atienoobwanda?style=social) | [![wakatime](https://wakatime.com/badge/user/f625f7da-5f8f-4dc7-b960-de0e9f160147.svg)](https://wakatime.com/@f625f7da-5f8f-4dc7-b960-de0e9f160147)
 
  **Git Reminder:**
 ****
