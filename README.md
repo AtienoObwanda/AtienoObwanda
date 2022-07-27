@@ -1,14 +1,10 @@
 <!-- <a href="url"><img src="/gitCover.png" width="900px" ></a>
  -->
 <h1 align="center">
-Hello<img src="/Wave.gif" height="55px" width="55px">, I am <a href="https://atienoobwanda.github.io/portfolioo/"> Nice to E-Meet you!</a>!
+Hello<img src="/Wave.gif" height="55px" width="55px">, I am<a href="https://atienoobwanda.github.io/portfolioo/"> Atieno </a> Nice to E-Meet you!
 </h1>
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <!-- <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines= Software-Developer+Passionate+about+solving+day-to-day+challenges;Harnessing+The+Coding+Super+Power!;Empowering+Others;Nice+To+Meet+You+...&center=true"> -->
 
-</p>
-<hr>
+<!-- <hr> -->
 <details>
 <summary>About Me 🚀</summary>
 :pushpin: My name is Atieno Obwanda. I'm a fullstack developer who is passionate about solving day-to-day challenges, through technology at the same time elevating people, and building community. <br>
@@ -31,7 +27,7 @@ Hello<img src="/Wave.gif" height="55px" width="55px">, I am <a href="https://ati
 <br />
 </details>
 
-<hr>
+<!-- <hr> -->
 <!-- <div style="display: flex;">
     <div style="width: 40%;">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=atienoobwanda&theme=gotham" />
@@ -42,23 +38,24 @@ Hello<img src="/Wave.gif" height="55px" width="55px">, I am <a href="https://ati
 </div> -->
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atienoobwanda&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FFE573&fire=FF8623&currStreakLabel=FF8623" alt="Atieno Obwanda" />
+</div>
 <br />
 
-<hr>
+<!-- <hr> -->
 <details>
-<summary>MY GIT STATS:</summary>
+<summary>MY GIT STATS✨</summary>
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=atienoobwanda&show_icons=true&count_private=true&hide_border=true&title_color=FEE473&icon_color=FF8623&text_color=c9d1d9&bg_color=0d1117" />
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atienoobwanda&layout=compact&hide_border=true&title_color=FEE473&text_color=FFFFFF&bg_color=0d1117" /> 
 
 </details>
-<hr>
-<details>
+<!-- <hr> -->
+<!-- <details>
 <summary> MY ACTIVITY STATS:</summary>
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=atienoobwanda&theme=react-dark&custom_title=My%20Activity&hide_border=true&area=true)
-</details>
-<hr>
+</details> -->
+<!-- <hr> -->
 <details>
-<summary> MY WAKATIME STATS:</summary>
+<summary> MY WAKATIME STATS✨</summary>
 
 ```text
 YAML   10 mins         █████████████████████████   100.00 %
