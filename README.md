@@ -4,7 +4,7 @@
 Hello<img src="/Wave.gif" height="55px" width="55px">, I am<a href="https://atienoobwanda.github.io/portfolioo/"> Atieno </a>. Nice to E-Meet you!
 </h1>
 
-<!-- <hr> -->
+<!-- <hr> 
 <details>
 <summary>About Me 🚀</summary>
 
@@ -23,7 +23,7 @@ Hello<img src="/Wave.gif" height="55px" width="55px">, I am<a href="https://atie
 **🌳 Current Project:** I'm currently working on an online store web app  
 <br>
 </details>
-
+-->
 <!-- <hr> -->
 <!-- <div style="display: flex;">
     <div style="width: 40%;">
