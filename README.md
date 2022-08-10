@@ -4,7 +4,7 @@
 Hello<img src="/Wave.gif" height="55px" width="55px">, I am<a href="https://atienoobwanda.github.io/portfolioo/"> Atieno </a>. Nice to E-Meet you!
 </h1>
 
-<!-- <hr> 
+<!-- 
 <details>
 <summary>About Me 🚀</summary>
 
@@ -38,14 +38,17 @@ Hello<img src="/Wave.gif" height="55px" width="55px">, I am<a href="https://atie
 </div>
 <br />
 
-<!-- <hr> -->
+<!--  
 <details>
-<summary>MY GIT STATS✨</summary>
+
+<summary></summary>
+-->
+MY GIT STATS✨
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=atienoobwanda&show_icons=true&count_private=true&hide_border=true&title_color=FEE473&icon_color=FF8623&text_color=c9d1d9&bg_color=0d1117" />
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atienoobwanda&layout=compact&hide_border=true&title_color=FEE473&text_color=FFFFFF&bg_color=0d1117" /> 
-
+<!-- 
 </details>
-<!-- <hr> -->
+ -->
 <!-- <details>
 <summary> MY ACTIVITY STATS:</summary>
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=atienoobwanda&theme=react-dark&custom_title=My%20Activity&hide_border=true&area=true)
@@ -58,7 +61,6 @@ Hello<img src="/Wave.gif" height="55px" width="55px">, I am<a href="https://atie
 [![wakatime](https://wakatime.com/badge/user/f625f7da-5f8f-4dc7-b960-de0e9f160147.svg)](https://wakatime.com/@f625f7da-5f8f-4dc7-b960-de0e9f160147)
 
 </details> -->
-<hr>
 </br>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/atien_o?style=social) | ![GitHub followers](https://img.shields.io/github/followers/atienoobwanda?style=social) | [![wakatime](https://wakatime.com/badge/user/f625f7da-5f8f-4dc7-b960-de0e9f160147.svg)](https://wakatime.com/@f625f7da-5f8f-4dc7-b960-de0e9f160147)
