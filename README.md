@@ -66,7 +66,7 @@ MY GIT STATS✨ <br/> </br>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/atien_o?style=social) | ![GitHub followers](https://img.shields.io/github/followers/atienoobwanda?style=social) | [![wakatime](https://wakatime.com/badge/user/f625f7da-5f8f-4dc7-b960-de0e9f160147.svg)](https://wakatime.com/@f625f7da-5f8f-4dc7-b960-de0e9f160147)
 
-<--
+<!--
 **Git Reminder:**
 ****
  -->
