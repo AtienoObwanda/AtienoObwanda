@@ -4,11 +4,18 @@
 Hello<img src="/Wave.gif" height="55px" width="55px">, I am<a href="https://atienoobwanda.github.io/portfolioo/"> Atieno </a> Nice to E-Meet you!
 </h1>
 
-<!-- <hr> -->
-<details>
-<summary>About Me 🚀</summary>
+<hr>
 
-:pushpin: My name is Atieno Obwanda. I'm a fullstack developer who is passionate about solving day-to-day challenges, through technology at the same time elevating people, and building community. <br>
+
+![Twitter Follow](https://img.shields.io/twitter/follow/atien_o?style=social) | ![GitHub followers](https://img.shields.io/github/followers/atienoobwanda?style=social) | [![wakatime](https://wakatime.com/badge/user/f625f7da-5f8f-4dc7-b960-de0e9f160147.svg)](https://wakatime.com/@f625f7da-5f8f-4dc7-b960-de0e9f160147) 
+
+[![Linkedin: atienoobwanda](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/millicent-atieno/)  [![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/atien.o/)  [![Dev.To: atienoobwanda](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://www.dev.to/atienoobwanda/)
+<!-- <details> -->
+<!-- <summary> -->
+About Me 🚀
+<!-- </summary> -->
+
+:pushpin: My name is Atieno Obwanda. I am a fullstack developer who is passionate about solving day-to-day challenges, through technology at the same time elevating people, and building community. <br>
 
 👀 I’m  always constantly looking for growth opportunities, so let's connect. <br>
 
@@ -18,11 +25,11 @@ Hello<img src="/Wave.gif" height="55px" width="55px">, I am<a href="https://atie
 
 :fire: Recent Project: <a href='https://weconnekt.herokuapp.com/'>We Connect</a> <br>
 
-🌱 **What I've been up to lately:** I’m currently learning: <a href='https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@5c4566382df54814ba604df6369ca2fc/block-v1:HarvardX+CS50P+Python+type@vertical+block@a1450ed5620843fe9fd548156a385d26'>**HarvardX CS50's Introduction to Programming with Python**</a> <br>
+<!-- 🌱 **What I've been up to lately:** I’m currently learning: <a href='https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@5c4566382df54814ba604df6369ca2fc/block-v1:HarvardX+CS50P+Python+type@vertical+block@a1450ed5620843fe9fd548156a385d26'>**HarvardX CS50's Introduction to Programming with Python**</a> <br> -->
 
-**🌳 Current Project:** I'm currently working on my personal portfolio  
+**🌳 Current Project:** I'm currently working on my eCommerce web app  
 <br>
-</details>
+<!-- </details> -->
 
 <!-- <hr> -->
 <!-- <div style="display: flex;">
@@ -36,15 +43,13 @@ Hello<img src="/Wave.gif" height="55px" width="55px">, I am<a href="https://atie
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atienoobwanda&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FFE573&fire=FF8623&currStreakLabel=FF8623" alt="Atieno Obwanda" />
 </div>
-<br />
-
 <!-- <hr> -->
-<details>
-<summary>MY GIT STATS✨</summary>
+<!-- <details> -->
+<!-- <summary>MY GIT STATS✨</summary> -->
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=atienoobwanda&show_icons=true&count_private=true&hide_border=true&title_color=FEE473&icon_color=FF8623&text_color=c9d1d9&bg_color=0d1117" />
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atienoobwanda&layout=compact&hide_border=true&title_color=FEE473&text_color=FFFFFF&bg_color=0d1117" /> 
 
-</details>
+<!-- </details> -->
 <!-- <hr> -->
 <!-- <details>
 <summary> MY ACTIVITY STATS:</summary>
@@ -57,14 +62,10 @@ Hello<img src="/Wave.gif" height="55px" width="55px">, I am<a href="https://atie
 
 [![wakatime](https://wakatime.com/badge/user/f625f7da-5f8f-4dc7-b960-de0e9f160147.svg)](https://wakatime.com/@f625f7da-5f8f-4dc7-b960-de0e9f160147)
 
-</details> -->
-<hr>
-</br>
-
-![Twitter Follow](https://img.shields.io/twitter/follow/atien_o?style=social) | ![GitHub followers](https://img.shields.io/github/followers/atienoobwanda?style=social) | [![wakatime](https://wakatime.com/badge/user/f625f7da-5f8f-4dc7-b960-de0e9f160147.svg)](https://wakatime.com/@f625f7da-5f8f-4dc7-b960-de0e9f160147)
-
- **Git Reminder:**
+<!-- </details> --> 
+<!-- <hr> -->
+ <!-- **Git Reminder:** -->
 ****
-*✨Adding a star to my Repos and FOLLOWING me boosts your coding KARMA✨* </br>
- 
+*✨Adding a star to my Repos and FOLLOWING me boosts your coding KARMA* </br>
+ ****
           
