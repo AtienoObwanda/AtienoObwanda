@@ -4,12 +4,12 @@
 Hello<img src="/Wave.gif" height="55px" width="55px">, I am<a href="https://atienoobwanda.github.io/portfolioo/"> Atieno </a>. Nice to E-Meet you!
 </h1>
 
+
+
+![Twitter Follow](https://img.shields.io/twitter/follow/atien_o?style=social) | ![GitHub followers](https://img.shields.io/github/followers/atienoobwanda?style=social) | [![wakatime](https://wakatime.com/badge/user/f625f7da-5f8f-4dc7-b960-de0e9f160147.svg)](https://wakatime.com/@f625f7da-5f8f-4dc7-b960-de0e9f160147)  [![Linkedin: atienoobwanda](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/millicent-atieno/)  [![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/atien.o/)  [![Dev.To: atienoobwanda](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://www.dev.to/atienoobwanda/)
+
 <hr>
 
-
-![Twitter Follow](https://img.shields.io/twitter/follow/atien_o?style=social) | ![GitHub followers](https://img.shields.io/github/followers/atienoobwanda?style=social) | [![wakatime](https://wakatime.com/badge/user/f625f7da-5f8f-4dc7-b960-de0e9f160147.svg)](https://wakatime.com/@f625f7da-5f8f-4dc7-b960-de0e9f160147) 
-
-[![Linkedin: atienoobwanda](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/millicent-atieno/)  [![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/atien.o/)  [![Dev.To: atienoobwanda](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://www.dev.to/atienoobwanda/)
 <!-- <details> -->
 <!-- <summary> -->
 About Me 🚀
