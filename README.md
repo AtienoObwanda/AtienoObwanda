@@ -64,8 +64,11 @@ About Me 🚀
 
 <!-- </details> --> 
 <!-- <hr> -->
- <!-- **Git Reminder:** -->
-****
-*✨Adding a star to my Repos and FOLLOWING me boosts your coding KARMA* </br>
- ****
+
+ <!-- <img src="https://komarev.com/ghpvc/?username=AtienoObwanda&&style=flat-square" align="center" /> -->
+
+</br>
+
+
+*✨Adding a star to my Repos and FOLLOWING me boosts your coding KARMA* 
           
