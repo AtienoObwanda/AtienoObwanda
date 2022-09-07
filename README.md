@@ -27,7 +27,7 @@ About Me 🚀
 
 <!-- 🌱 **What I've been up to lately:** I’m currently learning: <a href='https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@5c4566382df54814ba604df6369ca2fc/block-v1:HarvardX+CS50P+Python+type@vertical+block@a1450ed5620843fe9fd548156a385d26'>**HarvardX CS50's Introduction to Programming with Python**</a> <br> -->
 
-**🌳 Current Project:** I'm currently working on my eCommerce web app  
+**🌳 Current Project:** an eCommerce web app  
 <br>
 
 
