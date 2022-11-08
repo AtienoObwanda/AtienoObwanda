@@ -12,22 +12,22 @@ Hello<img src="/Wave.gif" height="55px" width="55px">, I am<a href="https://atie
  -->
 <!-- <details> -->
 <!-- <summary> -->
-About Me 🚀
+<!-- About Me 🚀 -->
 <!-- </summary> -->
 
-:pushpin: I am a fullstack developer who is passionate about solving day-to-day challenges, through technology at the same time elevating people, and building community. <br>
+:pushpin: I am passionate about solving day-to-day challenges, through technology at the same time elevating people, and building community. <br>
 
-👀 I’m  always constantly looking for growth opportunities, so let's connect. <br>
-
-🇰🇪 Current Location: Kenya.<br>
-
-:star: *The idea of being able to get computers to do things my way fascinates me!* <br>
-
-:fire: Recent Project: <a href='https://weconnekt.herokuapp.com/'>We Connect</a> <br>
-
+<!-- 👀 I’m  always constantly looking for growth opportunities, so let's connect. <br>
+ -->
+<!-- 🇰🇪 Current Location: Kenya.<br>
+ -->
+<!-- :star: *The idea of being able to get computers to do things my way fascinates me!* <br>
+ -->
+<!-- :fire: Recent Project: <a href='https://weconnekt.herokuapp.com/'>We Connect</a> <br>
+ -->
 <!-- 🌱 **What I've been up to lately:** I’m currently learning: <a href='https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@5c4566382df54814ba604df6369ca2fc/block-v1:HarvardX+CS50P+Python+type@vertical+block@a1450ed5620843fe9fd548156a385d26'>**HarvardX CS50's Introduction to Programming with Python**</a> <br> -->
 
-**🌳 Current Project:** an eCommerce web app  
+<!-- **🌳 Current Project:** an eCommerce web app   -->
 <br>
 
 
