@@ -37,7 +37,7 @@ Hello<img src="/Wave.gif" height="55px" width="55px">, I am<a href="https://atie
 <!--
 MY GIT STATS✨
 -->
-<div style="display: flex;">
+<!-- <div style="display: flex;">
 <div style="width: 40%;">
   <img width="40%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=atienoobwanda&show_icons=true&count_private=true&hide_border=true&title_color=FEE473&icon_color=FF8623&text_color=c9d1d9&bg_color=0d1117" />
  </div>
@@ -45,7 +45,7 @@ MY GIT STATS✨
  <img width="40%" height="195px" 
    src="https://github-readme-stats.vercel.app/api/top-langs/ username=atienoobwanda&layout=compact&hide_border=true&title_color=FEE473&text_color=FFFFFF&bg_color=0d1117" />     
  </div>
- </div>
+ </div> -->
 <!--  </div>  -->
 <!-- <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=atienoobwanda&show_icons=true&count_private=true&hide_border=true&title_color=FEE473&icon_color=FF8623&text_color=c9d1d9&bg_color=0d1117" />
 
