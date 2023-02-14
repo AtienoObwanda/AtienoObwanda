@@ -15,8 +15,8 @@ Hello<img src="/Wave.gif" height="55px" width="55px">, I am<a href="https://atie
 <!-- About Me 🚀 -->
 <!-- </summary> -->
 
-<!-- :pushpin: I am passionate about solving day-to-day challenges, through technology at the same time elevating people, and building community. <br>
- -->
+:pushpin: I am a software developer, who is passionate about solving day-to-day challenges, through technology at the same time elevating people, and building community. <br>
+
 👀 I’m  always constantly looking for growth opportunities, so let's connect. <br>
 
 <!-- 🇰🇪 Current Location: Kenya.<br>
