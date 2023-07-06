@@ -30,27 +30,19 @@ Hello<img src="/Wave.gif" height="55px" width="55px">, I am<a href="https://atie
 **🌳 Current Project:** Heart Strings Entertainment Streaming and Ticketing web application. Great Stuff Coming Soon.
 <br>
 
+<!--MY GIT STATS✨
+-->
+<div style="display: flex;">
+  <img style="width: 45%; height: 195px;" src="https://github-readme-stats.vercel.app/api?username=atienoobwanda&show_icons=true&count_private=true&hide_border=true&title_color=FEE473&icon_color=FF8623&text_color=c9d1d9&bg_color=0d1117" />
+  <img style="width: 45%; height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atienoobwanda&layout=compact&hide_border=true&title_color=FEE473&text_color=FFFFFF&bg_color=0d1117" />
+</div>
 
+<br>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atienoobwanda&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FFE573&fire=FF8623&currStreakLabel=FF8623" alt="Atieno Obwanda" />
 </div>
 <br>
-<!--
-MY GIT STATS✨
--->
-<div style="display: flex;">
-<div style="width: 40%;">
-  <img width="40%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=atienoobwanda&show_icons=true&count_private=true&hide_border=true&title_color=FEE473&icon_color=FF8623&text_color=c9d1d9&bg_color=0d1117" />
- </div>
- <div style="width: 40%;">
- <img width="40%" height="195px" 
-   src="https://github-readme-stats.vercel.app/api/top-langs/ username=atienoobwanda&layout=compact&hide_border=true&title_color=FEE473&text_color=FFFFFF&bg_color=0d1117" />     
- </div>
- </div> 
- </div> 
- 
-<!-- <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=atienoobwanda&show_icons=true&count_private=true&hide_border=true&title_color=FEE473&icon_color=FF8623&text_color=c9d1d9&bg_color=0d1117" />
 
- -->
+
 <!--  <img src="https://komarev.com/ghpvc/?username=AtienoObwanda&&style=flat-square" align="center" />
  -->
 *✨Adding a star to my Repos and FOLLOWING me boosts your coding KARMA* 
