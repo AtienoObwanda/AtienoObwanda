@@ -27,7 +27,7 @@ Hello<img src="/Wave.gif" height="55px" width="55px">, I am<a href="https://atie
  -->
 <!-- 🌱 **What I've been up to lately:** I’m currently learning: <a href='https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@5c4566382df54814ba604df6369ca2fc/block-v1:HarvardX+CS50P+Python+type@vertical+block@a1450ed5620843fe9fd548156a385d26'>**HarvardX CS50's Introduction to Programming with Python**</a> <br> -->
 
-<!-- **🌳 Current Project:** an eCommerce web app   -->
+**🌳 Current Project:** Heart Strings Entertainment Streaming and Ticketing web application. Great Stuff Coming Soon.
 <br>
 
 
@@ -37,7 +37,7 @@ Hello<img src="/Wave.gif" height="55px" width="55px">, I am<a href="https://atie
 <!--
 MY GIT STATS✨
 -->
-<!-- <div style="display: flex;">
+<div style="display: flex;">
 <div style="width: 40%;">
   <img width="40%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=atienoobwanda&show_icons=true&count_private=true&hide_border=true&title_color=FEE473&icon_color=FF8623&text_color=c9d1d9&bg_color=0d1117" />
  </div>
@@ -45,8 +45,9 @@ MY GIT STATS✨
  <img width="40%" height="195px" 
    src="https://github-readme-stats.vercel.app/api/top-langs/ username=atienoobwanda&layout=compact&hide_border=true&title_color=FEE473&text_color=FFFFFF&bg_color=0d1117" />     
  </div>
- </div> -->
-<!--  </div>  -->
+ </div> 
+ </div> 
+ 
 <!-- <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=atienoobwanda&show_icons=true&count_private=true&hide_border=true&title_color=FEE473&icon_color=FF8623&text_color=c9d1d9&bg_color=0d1117" />
 
  -->
