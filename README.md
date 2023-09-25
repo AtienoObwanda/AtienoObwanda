@@ -1,7 +1,7 @@
 <!-- <a href="url"><img src="/gitCover.png" width="900px" ></a>
  -->
 <h1 align="center">
-Hello<img src="/Wave.gif" height="55px" width="55px">, I am<a href="https://atienoobwanda.github.io/portfolioo/"> Atieno </a>. Nice to E-Meet you!
+Hello<img src="/Wave.gif" height="55px" width="55px">. Nice to E-Meet you!
 </h1>
 
 
