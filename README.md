@@ -27,7 +27,7 @@ Hello<img src="/Wave.gif" height="55px" width="55px">. Nice to E-Meet you!
  -->
 <!-- 🌱 **What I've been up to lately:** I’m currently learning: <a href='https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@5c4566382df54814ba604df6369ca2fc/block-v1:HarvardX+CS50P+Python+type@vertical+block@a1450ed5620843fe9fd548156a385d26'>**HarvardX CS50's Introduction to Programming with Python**</a> <br> -->
 
-**🌳 Current Project:** Heart Strings Entertainment Streaming and Ticketing web application. Great Stuff Coming Soon.
+**🌳 Current Project:**  Streaming web application. Great Stuff Coming Soon.
 <br>
 
 <!--MY GIT STATS✨
@@ -46,7 +46,7 @@ Hello<img src="/Wave.gif" height="55px" width="55px">. Nice to E-Meet you!
 <!--  <img src="https://komarev.com/ghpvc/?username=AtienoObwanda&&style=flat-square" align="center" />
  -->
 
-# Bits & Brilliance: CodeCrafted Chronicles 👇
+# Bits & Brilliance: Code Crafted Chronicles 👇
 <!-- BLOG-POST-LIST:START -->
 - [From Curiosity to Creation: My Journey into the World of Software Development.](https://atienoobwanda.hashnode.dev/from-curiosity-to-creation-my-journey-into-the-world-of-software-development)
 - [Embracing the Power of Slow Mornings: Finding Success in Tranquility As a Developer.](https://atienoobwanda.hashnode.dev/embracing-the-power-of-slow-mornings-finding-success-in-tranquility-as-a-developer)
