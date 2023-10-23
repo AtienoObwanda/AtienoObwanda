@@ -48,7 +48,9 @@ Hello<img src="/Wave.gif" height="55px" width="55px">. Nice to E-Meet you!
 
 # Latest Blog Posts 👇
 <!-- BLOG-POST-LIST:START -->
+- [From Curiosity to Creation: My Journey into the World of Software Development.](https://atienoobwanda.hashnode.dev/from-curiosity-to-creation-my-journey-into-the-world-of-software-development)
 - [Embracing the Power of Slow Mornings: Finding Success in Tranquility As a Developer.](https://atienoobwanda.hashnode.dev/embracing-the-power-of-slow-mornings-finding-success-in-tranquility-as-a-developer)
+
 <!-- BLOG-POST-LIST:END -->
 
 
