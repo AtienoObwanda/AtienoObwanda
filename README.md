@@ -46,10 +46,15 @@ Hello<img src="/Wave.gif" height="55px" width="55px">. Nice to E-Meet you!
 <!--  <img src="https://komarev.com/ghpvc/?username=AtienoObwanda&&style=flat-square" align="center" />
  -->
 
- # Latest Blogs
+# Latest Blog Posts 👇
 <!-- BLOG-POST-LIST:START -->
-
+- [Embracing the Power of Slow Mornings: Finding Success in Tranquility As a Developer.](https://atienoobwanda.hashnode.dev/embracing-the-power-of-slow-mornings-finding-success-in-tranquility-as-a-developer)
 <!-- BLOG-POST-LIST:END -->
+
+
+
+
+
 
 *✨Adding a star to my Repos and FOLLOWING me boosts your coding KARMA* 
           
