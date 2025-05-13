@@ -15,7 +15,9 @@ Hello<img src="/Wave.gif" height="55px" width="55px">. Nice to E-Meet you!
 <!-- About Me 🚀 -->
 <!-- </summary> -->
 
-:pushpin: I am a customer-centric software developer, who is passionate about solving day-to-day challenges, through technology at the same time elevating people, and building community. <br>
+:pushpin: My name is Atieno, and I am a customer-centric software developer passionate about solving real-world challenges through technology, while elevating people and building community. <br><br>
+🚀 Lately, I’ve been exploring the intersection of Data Science and AI in fintech, particularly how we can leverage data to improve payments operations, automate reconciliation, and drive smarter financial decision-making. I enjoy building systems that make sense of complex data, reduce friction, and ultimately deliver better user and business outcomes.
+<br>
 
 👀 I’m  always constantly looking for growth opportunities, so let's connect. <br>
 
@@ -26,7 +28,7 @@ Hello<img src="/Wave.gif" height="55px" width="55px">. Nice to E-Meet you!
 :fire: Check out my <a href='https://atieno.africa/'>PORTFOLIO</a> <br>
 <!-- 🌱 **What I've been up to lately:** I’m currently learning: <a href='https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@5c4566382df54814ba604df6369ca2fc/block-v1:HarvardX+CS50P+Python+type@vertical+block@a1450ed5620843fe9fd548156a385d26'>**HarvardX CS50's Introduction to Programming with Python**</a> <br> -->
 
-**🌳 Current Project:**  Streaming web application. Great Stuff Coming Soon.
+**🌳 Current Project:**  Building intelligent reconciliation and reporting systems for fintech operations — using data to streamline payments, detect anomalies, and reduce financial mismatches. More great stuff coming soon!
 <br>
 
 <!--MY GIT STATS✨
@@ -45,8 +47,8 @@ Hello<img src="/Wave.gif" height="55px" width="55px">. Nice to E-Meet you!
 <!--  <img src="https://komarev.com/ghpvc/?username=AtienoObwanda&&style=flat-square" align="center" />
  -->
 
-# Code Crafted Chronicles 👇
-_Delve into a dynamic programming blog where you'll find a treasure trove of insightful articles, tutorials, and tips.  Explore practical examples, industry insights, and creative solutions in every post._
+<!-- # Code Crafted Chronicles 👇  -->
+<!--  _Delve into a dynamic programming blog where you'll find a treasure trove of insightful articles, tutorials, and tips.  Explore practical examples, industry insights, and creative solutions in every post._  -->
 <!-- BLOG-POST-LIST:START
 - [How To Deploy A python-flask app to Heroku. Avoid the [H10-Error] !](https://dev.to/atienoobwanda/how-to-deploy-a-python-flask-app-to-heroku-avoid-the-h10-error--2pn3)
 - [A Step-by-Step Guide to Setting Up a PostgreSQL Database on Amazon AWS](https://dev.to/atienoobwanda/a-step-by-step-guide-to-setting-up-a-postgresql-database-on-amazon-aws-2dfc)
